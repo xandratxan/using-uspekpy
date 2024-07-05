@@ -26,15 +26,15 @@ Please note that these values of execution time are obtained for a specific comp
 They may vary from one computer to another.
 PC specifications: processor Intel® Core™ i7-4790 × 8, RAM 8 GiB, OS Ubuntu 24.04 LTS.  
 
-![Execution time](output_v1/execution_time_second_run.png)
+![Execution time](output/execution_time_second_run.png)
 
 ## Quantities mean values
 
-![Mean values](output_v1/mean_values.png)
+![Mean values](output/mean_values.png)
 
 ## Quantities uncertainties
 
-![Mean values](output_v1/relative_uncertainties.png)
+![Mean values](output/relative_uncertainties.png)
 
 ## Probability distribution of input and output variables
 
@@ -42,9 +42,9 @@ The number of iterations must be at least 500 to get adequate probability distri
 Randomly sampled values of mass transfer coefficients are not included in the analysis, since USpekPy does not return 
 their values.
 
-![Histogram 10](output_v1/histogram_10.png)
-![Histogram 50](output_v1/histogram_50.png)
-![Histogram 100](output_v1/histogram_100.png)
-![Histogram 500](output_v1/histogram_500.png)
-![Histogram 1000](output_v1/histogram_1000.png)
-![Histogram 5000](output_v1/histogram_5000.png)
+![Histogram 10](output/histogram_10.png)
+![Histogram 50](output/histogram_50.png)
+![Histogram 100](output/histogram_100.png)
+![Histogram 500](output/histogram_500.png)
+![Histogram 1000](output/histogram_1000.png)
+![Histogram 5000](output/histogram_5000.png)
